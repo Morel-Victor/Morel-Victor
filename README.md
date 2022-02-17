@@ -22,9 +22,11 @@ Hobbies | ![Blockchain](https://img.shields.io/badge/Blockchain-2F3134?style=for
 
 &nbsp;
 
-## Projects
+# Projects
+
 
 ### Collaborations :
+
 
 -----------
 
@@ -49,6 +51,8 @@ Hobbies | ![Blockchain](https://img.shields.io/badge/Blockchain-2F3134?style=for
 &nbsp; &nbsp; &nbsp; https://github.com/Morel-Victor/HackathonManoManoWCS
 
 -----------
+
+&nbsp;
 
 ### Personal projects :
 
