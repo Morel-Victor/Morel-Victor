@@ -33,7 +33,6 @@ Hobbies | ![Blockchain](https://img.shields.io/badge/Blockchain-2F3134?style=for
 &nbsp; &nbsp; &nbsp; https://github.com/Morel-Victor/Projet-2---Cocktails-Search-Engine-
 
 -----------
-![143036530-e38b45bb-9974-4fae-9180-b1661ecea68e](https://user-images.githubusercontent.com/69718187/154503644-ee9d6d1b-cbd0-49a5-8ca0-d02e9cc7c903.png)
 
 &nbsp; &nbsp; &nbsp; ✨ WCS Project 2 : EverRetrofit - Website for a retofriting company
 
