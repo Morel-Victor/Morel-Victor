@@ -1,14 +1,5 @@
 # Hi there 👋 I'm Victor Morel 
 
-• I’m currently learning JavaScript (React, Vue, Node.js)
-
-• I have finished the Wild Code School on february. 
-
-• I'm happy to enter on the wonderfull world of Dev 
-
-## If you have any question you can reach me here 📫 :
-<a href="mailto:morel.victor1@gmail.com"><img src="https://img.shields.io/badge/-morel.victor1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
 ## Profile
 Property                 | Data  
 -------------------------|------
