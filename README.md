@@ -15,9 +15,7 @@ Hobbies | ![Blockchain](https://img.shields.io/badge/Blockchain-2F3134?style=for
 
 # Projects
 
-
 ### Collaborations :
-
 
 -----------
 
@@ -34,12 +32,6 @@ Hobbies | ![Blockchain](https://img.shields.io/badge/Blockchain-2F3134?style=for
 &nbsp; &nbsp; &nbsp; Back : https://github.com/Morel-Victor/p3-g3-sept21-lille-retrofit-backend
 
 &nbsp; &nbsp; &nbsp; Back-office : https://github.com/Morel-Victor/Retrofit-Backoffice
-
------------
-
-&nbsp; &nbsp; &nbsp; ✨ WCS Hackaton : ManoMano - Crypto payement solution for ManoMano company released in 2 days 
-
-&nbsp; &nbsp; &nbsp; https://github.com/Morel-Victor/HackathonManoManoWCS
 
 -----------
 
