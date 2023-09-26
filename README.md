@@ -13,46 +13,6 @@ Hobbies | ![Blockchain](https://img.shields.io/badge/Blockchain-2F3134?style=for
 
 &nbsp;
 
-# Projects
-
-### Collaborations :
-
------------
-
-&nbsp; &nbsp; &nbsp; ✨ WCS Project 1 : Shaker - Search engine of Cocktail 🍹
-
-&nbsp; &nbsp; &nbsp; https://github.com/Morel-Victor/Projet-2---Cocktails-Search-Engine-
-
------------
-
-&nbsp; &nbsp; &nbsp; ✨ WCS Project 2 : EverRetrofit - Website for a retofriting company
-
-&nbsp; &nbsp; &nbsp; Front : https://github.com/Morel-Victor/p3-g3-sept21-lille-reactJs-retrofit-frontend
-
-&nbsp; &nbsp; &nbsp; Back : https://github.com/Morel-Victor/p3-g3-sept21-lille-retrofit-backend
-
-&nbsp; &nbsp; &nbsp; Back-office : https://github.com/Morel-Victor/Retrofit-Backoffice
-
------------
-
-&nbsp;
-
-### Personal projects :
-
------------
-
-&nbsp; &nbsp; &nbsp; ✨ Personal Project 1 : Côté Campagne - Website for a florist company 🌱
-
-&nbsp; &nbsp; &nbsp; https://github.com/Morel-Victor/Cote-campagne-front
-
------------
-
-&nbsp; &nbsp; &nbsp; ✨ Personal Project 2 : Chuck Jokes - Website with random chuk noris jockes whith cool animation ![image](https://user-images.githubusercontent.com/69718187/143036530-e38b45bb-9974-4fae-9180-b1661ecea68e.png)
-
-&nbsp; &nbsp; &nbsp; https://github.com/Morel-Victor/Chuck-Jokes 
-
------------
-
 &nbsp;
 
 ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=morel-victor&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=[%22stars%22])
